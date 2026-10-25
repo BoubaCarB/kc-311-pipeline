@@ -1,0 +1,67 @@
+Department,Reports,Resolved,Open,Referred,Canceled,Median days to resolve,Average days to resolve,Average days open (still open),Most reported issue
+PW Solid Waste,45795,41373,3613,12,797,2.0,6.9,101.3,Trash / Recycling / Bulky Services
+NHS Preservation,20304,9261,6890,8,4145,13.0,31.7,118.8,Property Violations
+Animal Services,16034,13858,1541,0,635,0.0,2.5,43.3,Animal Services
+PW Streets,10524,7924,1500,0,1100,6.0,16.6,98.3,Pothole
+Parks and Recreation - Forestry,9030,6680,1308,0,1042,4.0,13.6,78.1,Trees City Row
+Health Environmental Services,4696,4101,389,24,182,4.0,6.9,39.1,Healthy Homes
+NHS Illegal Dumping,3976,3549,34,166,227,6.0,18.2,10.4,Illegal Dumping
+KCPD Parking Control,3872,3605,95,91,81,5.0,6.7,41.5,Vehicles and Parking
+WSD Leak Investigation,2923,2874,43,2,4,2.0,3.8,15.9,Water Service
+WSD Meter and Field Services,2834,2804,25,5,0,1.0,3.0,21.1,Water Service
+WSD Wastewater Investigation,2725,2671,41,4,9,1.0,13.1,84.1,Sewer and Stormwater
+PW Streetlights,2454,2137,31,0,286,1.0,2.3,18.5,Streetlights
+PW Signals,2276,1973,28,0,275,1.0,2.4,25.0,Traffic Signals
+PW Signs,2220,1981,111,0,128,3.0,13.1,52.6,Traffic Signs and Street Markings
+Parks and Recreation - Maintenance,2109,1801,234,0,74,4.0,15.9,120.8,Parks and Recreation
+WSD Pipeline Repair,2082,1652,54,369,7,8.0,27.7,142.8,Water Service
+PW Sidewalks,1992,1801,140,2,49,5.0,11.5,121.1,Sidewalks and Curbs
+Water Services Department,1778,1765,10,1,2,3.0,9.7,13.6,Water Service
+Housing and Community Dev,1628,866,510,3,249,13.0,50.0,149.1,Homeless Camp
+311 Research,1553,1160,387,0,6,2.0,12.7,167.2,Administration or Questions
+WSD Stormwater Investigation,1524,1391,77,54,2,5.0,44.8,128.8,Sewer and Stormwater
+PW Permits,1490,1174,191,0,125,7.0,12.5,116.7,Right-of-Way / Inspections
+PW Traffic Study Group,1328,1264,30,0,34,2.0,4.3,18.1,Traffic Calming or Concerns
+Health Food Safety,1079,1077,2,0,0,2.0,3.1,9.0,Food Safety
+CPD Land Use,967,539,289,0,139,32.0,52.4,151.7,Zoning and Permits
+Land Bank,857,562,265,0,30,11.0,22.1,114.0,Land Bank Issues
+--,782,709,71,1,1,1.0,3.3,173.1,311 Request Update
+WSD Stormwater Maintenance,780,544,227,9,0,75.0,75.0,129.0,Street Cleaning / Sweeping
+PW Engineering,633,556,32,0,45,4.0,12.1,47.1,Traffic Signs and Street Markings
+PW Snow,557,533,5,0,19,2.0,3.3,315.6,Snow
+CPD Development Services,486,263,158,0,65,5.0,20.7,141.8,Zoning and Permits
+Parks and Recreation - Trees (in Parks),380,280,56,0,44,6.0,14.2,104.2,Parks and Recreation
+NHS Dangerous Buildings,363,141,213,0,9,34.0,69.3,184.4,Dangerous Buildings
+Public Works Administration,323,311,8,0,4,7.0,17.6,111.9,Administration or Questions
+PW Parking,304,195,83,0,26,37.0,38.2,107.0,Vehicles and Parking
+WSD Wastewater Repair,289,13,140,136,0,3.0,40.8,153.8,Sewer and Stormwater
+WSD Laboratory Services,287,280,4,0,3,4.0,4.9,100.8,Water Service
+WSD Stormwater Repair,278,7,82,189,0,13.0,39.6,164.6,Sewer and Stormwater
+PW Capital Improvements,262,169,78,0,15,8.0,41.1,133.6,Street Maintenance
+Neighborhood Services Short Term Rental,257,108,115,0,34,11.0,35.5,123.6,Short Term Rental
+Water Services Administration,206,202,3,0,1,9.0,15.3,55.7,Administration or Questions
+PW Bridge,137,97,23,0,17,12.0,24.5,116.0,Bridge
+Civil Rights and Equal Opportunity,129,128,0,0,1,19.0,32.8,,Discrimination Report
+CPD Business in Residence,89,58,27,0,4,29.0,47.3,118.1,Zoning and Permits
+Fire Inspector,85,63,1,1,20,1.0,1.8,42.0,Public Safety
+WSD Water Engineering,66,60,4,2,0,36.0,43.8,40.2,Water Service
+NHS Regulated Industries,64,29,15,10,10,8.0,17.9,98.5,Public Safety
+Abatement Contractor,57,2,55,0,0,17.5,17.5,225.6,Graffiti
+Parks and Recreation Administration,55,49,1,0,5,1.0,2.8,75.0,Administration or Questions
+Finance,51,50,1,0,0,0.0,3.9,10.0,Administration or Questions
+Neighborhood and Housing Services Administration,43,41,0,0,2,5.0,13.2,,Administration or Questions
+WSD Stormwater Engineering,36,32,4,0,0,11.0,27.4,50.5,Sewer and Stormwater
+WSD Revenue Protection,36,29,0,0,7,0.0,1.9,,Water Service
+CMO Emergency Management,36,36,0,0,0,1.0,2.4,,Public Safety
+City Communications,34,2,32,0,0,0.5,0.5,181.2,Administration or Questions
+City Planning Administration,33,28,1,0,4,0.0,2.9,132.0,Zoning and Permits
+KC Police Dept,30,10,20,0,0,184.0,160.5,122.9,Administration or Questions
+Parks and Recreation - Community Centers,26,24,2,0,0,4.5,7.4,23.5,Parks and Recreation
+WSD Regulatory Compliance,24,22,2,0,0,21.0,38.0,67.5,Sewer and Stormwater
+Parks and Recreation - Facility Maintenance,18,16,1,0,1,2.5,9.4,56.0,Parks and Recreation
+Environmental Quality,18,7,4,2,5,3.0,3.9,199.8,Environmental Concerns
+Parks and Recreation - Park Rangers,16,1,15,0,0,218.0,218.0,119.3,Parks and Recreation
+City Council Aides,12,3,9,0,0,14.0,20.3,169.0,Administration or Questions
+Fire Admin,6,6,0,0,0,2.5,2.8,,Public Safety
+General Services,5,3,1,0,1,21.0,60.7,11.0,Administration or Questions
+WSD Water Administration,3,1,2,0,0,249.0,249.0,154.0,Water Service

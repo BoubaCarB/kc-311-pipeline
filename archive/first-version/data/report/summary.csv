@@ -1,0 +1,26 @@
+Metric,Value
+Report period,2025-10-25 to 2026-10-25
+Newest report in the city's data,2026-10-19 08:51
+Report generated,2026-10-25 13:19
+,
+Reports,155346
+Resolved,124951
+Open,19333
+Referred,1091
+Canceled,9971
+Median days to resolve,3.0
+Average days to resolve,11.7
+Average days open (still open),105.9
+Reports with no council district,8096
+,
+Notes,
+"Canceled requests are not counted as resolved, even though the city records a resolved date for them.",
+"Days to resolve uses resolved requests only. Requests still open are measured separately, by how long they have been waiting.",
+Referred means passed to another agency; it counts as neither resolved nor open.,
+"Status spellings are merged (e.g. 'resolved' and 'Resolved'), as are duplicate category names.",
+Requests with no council district are grouped under 'Unknown' rather than dropped.,
+ZIP codes are read from the address; requests with no address are under 'Unknown'.,
+"Trends by year counts every report since the dataset began in 2021, not only the last 12 months.",
+"Recent months and years look faster to resolve than older ones: their slow requests are still open, so they are not in the average yet.",
+"Repeat addresses include city buildings where staff log reports (City Hall is 414 E 12th St), not only problem spots. The top issue and its share show which is which.",
+All times are Kansas City local time (America/Chicago).,

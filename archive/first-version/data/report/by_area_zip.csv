@@ -1,0 +1,55 @@
+ZIP,Reports,Resolved,Open,Referred,Canceled,Median days to resolve,Average days to resolve,Average days open (still open),Most reported issue
+64130,11478,8921,1806,62,689,2.0,11.8,105.7,Property Violations
+64127,7930,6059,1268,65,538,2.0,12.4,112.1,Property Violations
+64114,7886,6663,710,38,475,3.0,11.3,97.7,Trash / Recycling / Bulky Services
+64134,7582,5731,1251,34,566,3.0,11.1,102.6,Property Violations
+64131,7401,6057,832,55,457,3.0,11.2,99.4,Trash / Recycling / Bulky Services
+64132,6903,5579,975,34,315,2.0,11.0,105.7,Animal Services
+64128,6372,4776,1075,50,471,2.0,11.4,116.1,Property Violations
+64110,6039,4770,783,44,442,3.0,12.6,103.7,Property Violations
+64111,5609,4512,602,40,455,3.0,12.9,98.2,Property Violations
+64133,5291,4477,498,42,274,2.0,11.3,98.4,Trash / Recycling / Bulky Services
+64119,5025,4137,576,33,279,3.0,11.8,98.7,Trash / Recycling / Bulky Services
+64151,4562,3779,484,34,265,3.0,11.0,93.3,Trash / Recycling / Bulky Services
+64155,4549,3705,553,25,266,2.0,10.1,97.1,Trash / Recycling / Bulky Services
+64109,4546,3548,652,20,326,2.0,13.0,105.9,Property Violations
+64124,4316,3292,635,21,368,2.0,15.1,123.7,Property Violations
+64113,4151,3485,379,36,251,3.0,12.9,82.5,Trash / Recycling / Bulky Services
+64108,3879,3073,480,33,293,3.0,14.9,124.1,Property Violations
+64123,3801,3021,477,26,277,2.0,11.7,103.1,Animal Services
+64129,3637,2898,491,28,220,2.0,11.0,112.2,Animal Services
+64118,3516,2874,387,27,228,3.0,11.3,96.9,Trash / Recycling / Bulky Services
+64138,3422,2844,381,21,176,2.0,11.1,110.6,Animal Services
+64157,3381,2881,333,10,157,2.0,9.8,112.2,Trash / Recycling / Bulky Services
+64117,3032,2437,386,11,198,3.0,11.7,94.9,Trash / Recycling / Bulky Services
+64137,2897,2409,299,23,166,2.0,10.4,104.2,Trash / Recycling / Bulky Services
+64116,2681,2182,287,26,186,3.0,10.7,98.5,Trash / Recycling / Bulky Services
+64106,2389,1905,300,24,160,3.0,11.8,130.3,Animal Services
+64154,2318,1923,252,20,123,3.0,10.2,103.6,Trash / Recycling / Bulky Services
+64112,2264,1868,249,13,134,3.0,11.3,99.3,Trash / Recycling / Bulky Services
+64126,1978,1568,298,12,100,3.0,11.7,110.2,Animal Services
+64156,1800,1371,251,11,167,3.0,11.8,111.8,Trash / Recycling / Bulky Services
+64152,1735,1478,146,11,100,4.0,10.4,94.8,Trash / Recycling / Bulky Services
+64153,1569,1266,133,14,156,4.0,10.3,98.3,Trash / Recycling / Bulky Services
+64145,1406,1182,134,8,82,3.0,10.0,99.3,Trash / Recycling / Bulky Services
+64125,1142,936,134,8,64,2.0,10.0,119.3,Trash / Recycling / Bulky Services
+64105,1098,889,96,8,105,3.0,12.6,97.3,Traffic Signs and Street Markings
+64120,985,750,112,14,109,3.0,17.0,142.5,Pothole
+64158,912,775,86,9,42,3.0,11.4,105.4,Trash / Recycling / Bulky Services
+64136,574,483,61,5,25,2.0,10.1,121.8,Trash / Recycling / Bulky Services
+64139,544,450,47,6,41,3.0,14.7,109.6,Trash / Recycling / Bulky Services
+64146,420,349,42,2,27,3.0,14.3,71.3,Trash / Recycling / Bulky Services
+64163,227,191,27,0,9,5.0,13.2,109.4,Trash / Recycling / Bulky Services
+64161,213,169,22,2,20,3.0,12.9,131.6,Animal Services
+64149,211,167,26,3,15,3.0,11.9,145.5,Trash / Recycling / Bulky Services
+64102,207,165,25,2,15,3.0,17.1,120.4,Animal Services
+64101,128,106,15,3,4,3.0,14.5,121.7,Animal Services
+64165,124,100,13,0,11,2.0,12.9,65.9,Trash / Recycling / Bulky Services
+64147,81,67,11,0,3,3.0,12.6,85.8,Animal Services
+64164,80,69,8,1,2,2.0,7.1,132.9,Trash / Recycling / Bulky Services
+64166,28,22,5,0,1,3.5,15.0,151.6,Street Maintenance
+64167,7,7,0,0,0,4.0,23.0,,Trash / Recycling / Bulky Services
+66221,1,1,0,0,0,69.0,69.0,,Illegal Dumping
+64030,1,1,0,0,0,1.0,1.0,,Illegal Dumping
+66208,1,1,0,0,0,0.0,0.0,,Water Service
+Unknown,3017,2582,240,77,118,2.0,8.7,128.7,Administration or Questions

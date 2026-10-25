@@ -1,0 +1,25 @@
+# Secrets — never commit
+.env
+service-account.json
+*-credentials.json
+
+# Local run state
+state/
+*.sqlite
+*.db
+
+# Raw pulls stay on this computer: the full history is close to 1 GB, and
+# git would keep every refreshed copy.
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Editors / OS
+.vscode/
+.DS_Store
