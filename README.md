@@ -17,7 +17,7 @@ reports a pothole, a dead streetlight, illegal dumping. One row per report.
 - 843,661 reports from February 2021 on; no API key needed for modest use
 - The newest report is usually a few days old
 
-## What we found so far
+## What is found so far
 
 Before cleaning anything, every report was scanned for inconsistencies.
 The data has more problems than expected, and several got worse, not better:
