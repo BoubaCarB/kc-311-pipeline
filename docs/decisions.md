@@ -30,9 +30,18 @@ interview the reason is the interesting half.
   the recent window is refetched whole. The fetch starts on the 1st of the
   window's first month, so month files are always complete.
 
+- **The Sheet has three tabs: Summary, Categories, Reports.** Enough to
+  see what's being reported and what's most recent. One Reports tab with
+  a filter instead of a tab per category: there are about 50 categories.
+- **The Sheet covers the last 12 months.** A Google Sheet holds at most 10
+  million cells; every report since 2021 would need about 15 million.
+- **Only the problems the three tabs need get fixed.** The rest are
+  documented in `data-quality.md` and left as the city sends them, so the
+  cleaning stays small and every fix has a reason. The list and its
+  progress are in `cleaning-plan.md`.
+
 ## Open
 
-- How cleaning handles the inconsistencies in the source data.
-- What the Sheet shows.
+- How each problem in `cleaning-plan.md` gets fixed.
 - How the schedule survives GitHub disabling workflows after 60 days of
   repository inactivity.

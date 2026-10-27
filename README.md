@@ -65,6 +65,6 @@ cp .env.example .env
 | `pipeline/config.py` | done |
 | `pipeline/sheets.py` | connection to the Sheet works; nothing written yet |
 | `analysis/` | done: data-quality scan, see [docs/data-quality.md](docs/data-quality.md) |
-| Cleaning | next, starting with `current_status` |
-| Report | not started |
+| Cleaning | next, starting with `current_status`; plan and progress in [docs/cleaning-plan.md](docs/cleaning-plan.md) |
+| Report | planned: Summary, Categories and Reports tabs, last 12 months |
 | Hourly schedule | not started |

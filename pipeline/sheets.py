@@ -64,7 +64,7 @@ def write_report(settings: Settings, tabs: dict[str, list[list]]) -> str:
             "sheetId": ids[title], "dimension": "COLUMNS", "startIndex": 0, "endIndex": width[title]}}})
     sheet.batch_update({"requests": requests})
 
-    # The blank tab every new spreadsheet starts with is not ours to keep.
+    # The blank tab every new spreadsheet starts with is not part of the report.
     # Any tab someone added by hand is left alone, after the report tabs.
     if "Sheet1" in existing and "Sheet1" not in tabs:
         sheet.del_worksheet(existing["Sheet1"])
