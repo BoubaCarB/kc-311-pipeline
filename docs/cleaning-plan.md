@@ -4,7 +4,7 @@ What gets fixed, why, and how. The problems themselves are described in
 [data-quality.md](data-quality.md); this file tracks what is done about them.
 Updated as each decision is made.
 
-## Goal
+## Goal...
 
 Anyone can open one Google Sheet and see what Kansas City residents are
 reporting, by category, and what's most recent.
